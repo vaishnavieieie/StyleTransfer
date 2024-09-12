@@ -1,1 +1,1 @@
-# Style transfer uding VGG
+# Style transfer using VGG
